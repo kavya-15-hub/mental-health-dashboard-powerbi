@@ -1,7 +1,7 @@
 # Mental Health Analytics Dashboard (Power BI)
 
 ## Overview
-This project analyzes user mental health using key metrics such as stress, anxiety, mood, sleep, and burnout.
+This project analyzes mental health patterns across multiple users using key metrics such as stress, anxiety, mood, sleep, and burnout. It provides a KPI-based scoring system along with detailed factor-level analysis to identify key drivers and generate personalized insights.
 
 ## Tools Used
 - Power BI
