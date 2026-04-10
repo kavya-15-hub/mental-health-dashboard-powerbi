@@ -18,3 +18,17 @@ The analysis shows moderate stress and anxiety levels, while sleep quality remai
 
 ## Project File
 - Mental-health-dashboard-PowerBI.pdf
+
+## Dashboard Preview
+
+### Overview
+![Overview](https://raw.githubusercontent.com/kavya-15-hub/mental-health-dashboard-powerbi/main/overview-dashboard.png)
+
+### Stress & Anxiety Analysis
+![Stress](https://raw.githubusercontent.com/kavya-15-hub/mental-health-dashboard-powerbi/main/stress-anxiety-analysis.png)
+
+### Mood & Sleep Analysis
+![Mood](https://raw.githubusercontent.com/kavya-15-hub/mental-health-dashboard-powerbi/main/mood-sleep-analysis.png)
+
+### Burnout Insights
+![Burnout](https://raw.githubusercontent.com/kavya-15-hub/mental-health-dashboard-powerbi/main/burnout-insights.png)
